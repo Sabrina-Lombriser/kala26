@@ -55,7 +55,7 @@ nav {
 nav a {
   display: inline-block;
   padding: 10px 15px;
-  background: rgba(55, 116, 60);
+  background: rgba(158, 184, 178, 255);
   color: rgb(250, 249, 246);
   font-weight: semi-bold;
   text-decoration: none;
@@ -120,7 +120,7 @@ p {
 
 .center {
   justify-content: center;
-  gap: 40px;
+  gap: 50px;
 }
 
 .Formular {
@@ -612,14 +612,6 @@ label {
   .footer-text {
     padding-top: 10px;
   }
-
-  .SuccessImage {
-    width: 300px;
-  }
-  .SuccessText {
-    padding-left: 0px;
-    padding-right: 0px;
-  }
 }
 /*Tablet*/
 @media (min-width: 668px) and (max-width: 1024px) {
@@ -643,15 +635,12 @@ label {
     flex-wrap: wrap;
   }
   label {
-    padding-left: 10px;
+    padding-left: 20px;
     padding-right: 10px;
-  }
-  .row-anmeldung {
-    flex-wrap: wrap;
-    gap: 0px;
   }
   .vorstand {
     width: 50%;
+    margin: auto;
   }
   .list-two {
     max-width: 500px;
