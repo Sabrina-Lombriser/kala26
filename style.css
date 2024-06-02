@@ -22,7 +22,6 @@ header {
   background-color: rgb(153, 180, 61);
   width: 60%;
   margin: auto;
-  margin-top: 20px;
   padding: 20px;
 }
 
@@ -345,6 +344,7 @@ a {
   border-radius: 10px;
   border: none;
   padding: 8px 16px;
+  margion-bottom: 20px;
 }
 
 .mailbutton-second {
@@ -555,7 +555,6 @@ label {
     padding: 0px;
     padding-top: 20px;
     padding-bottom: 20px;
-    margin-top: 0px;
   }
 
   .text-hll {
