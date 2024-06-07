@@ -318,7 +318,7 @@ input[type="checkbox"] {
 }
 
 a {
-  color: rgba(158, 184, 178, 255);
+  color: rgb(55, 116, 60);
   text-align: center;
 }
 .maillink {
@@ -344,7 +344,7 @@ a {
   border-radius: 10px;
   border: none;
   padding: 8px 16px;
-  margion-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 .mailbutton-second {
