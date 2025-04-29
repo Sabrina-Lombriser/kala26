@@ -1,10 +1,5 @@
-@import url("https://fonts.googleapis.com/css2?family=Cookie&family=Domine&family=Dynalight&family=Open+Sans:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cookie&family=Domine&family=Dynalight&family=Open+Sans&family=Bricolage+Grotesque:wght@400;700&display=swap");
 
-body {
-  margin: 0 auto;
-  max-width: 1440px;
-  background-color: rgb(250, 249, 246);
-}
 
 header {
   background-color: whitesmoke;
@@ -14,7 +9,14 @@ header {
 }
 
 .HLL {
-  background-color: rgb(153, 180, 61);
+  background-color: rgb(96, 142, 228);
+  width: 60%;
+  margin: auto;
+  padding: 20px;
+}
+
+.Patronatskomitee {
+  background-color: rgb(242, 201, 102);
   width: 60%;
   margin: auto;
   padding: 20px;
@@ -41,32 +43,32 @@ header {
 }
 
 h1 {
-  color: rgb(55, 116, 60);
+  color: rgb(62, 43, 48);
   font-size: 36px;
   text-align: center;
-  font-family: "Domine", serif;
+  font-family: "Bricolage Grotesque", serif;
   margin-top: 50px;
 }
 
 h2 {
   text-align: center;
   margin: 10px;
-  font-family: "Domine", serif;
-  color: rgb(55, 116, 60);
+  font-family: "Bricolage Grotesque", serif;
+  color: rgb(62, 43, 48);
 }
 h3 {
   text-align: center;
-  color: rgb(55, 116, 60);
+  color: rgb(62, 43, 48);
   padding: 15px;
   margin: 0px;
-  font-family: "Domine", serif;
+  font-family: "Bricolage Grotesque", serif;
 }
 h4 {
   text-align: center;
   padding: 10px;
   margin: 0px;
-  font-family: "Domine", serif;
-  color: rgb(55, 116, 60);
+  font-family: "Bricolage Grotesque", serif;
+  color: rgb(62, 43, 48);
 }
 p {
   text-align: center;
@@ -76,7 +78,7 @@ p {
   padding-right: 20px;
   padding-top: 10px;
   padding-bottom: 20px;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Bricolage Grotesque", sans-serif;
   color: rgb(0, 0, 0);
 }
 
@@ -88,7 +90,7 @@ p {
   padding-right: 20px;
   padding-bottom: 0px;
   padding-top: 0px;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Bricolage Grotesque", sans-serif;
   color: rgb(0, 0, 0);
 }
 .patronat-amt {
@@ -99,7 +101,7 @@ p {
   padding-right: 20px;
   padding-bottom: 0px;
   padding-top: 0px;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Bricolage Grotesque", sans-serif;
   color: rgb(0, 0, 0);
 }
 .container {
@@ -165,21 +167,21 @@ p {
 }
 
 a {
-  color: rgb(55, 116, 60);
+  color: rgb(62, 43, 48);
   text-align: center;
 }
 .maillink {
   color: rgb(250, 249, 246);
   font-size: 15px;
   text-decoration: none;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Bricolage Grotesque", sans-serif;
 }
 .maillink:hover {
   color: black;
 }
 
 .mailbutton {
-  background-color: rgb(55, 116, 60);
+  background-color: rgb(62, 43, 48);
   border-radius: 10px;
   border: none;
   padding: 8px 16px;
@@ -293,7 +295,7 @@ footer {
   justify-content: center;
 }
 .footer-text {
-  color: rgb(55, 116, 60);
+  color: rgb(62, 43, 48);
   margin-top: 20px;
 }
 
