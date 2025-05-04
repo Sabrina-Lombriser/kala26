@@ -263,7 +263,6 @@ li {
   display: flex;
   flex-wrap: wrap;
   padding-left: 0px;
-  max-width: 800px;
   margin: auto;
 }
 .patronat-list {
@@ -288,15 +287,13 @@ li {
   width: 50%;
 }
 
-footer {
-  height: 50px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.footer-text {
-  color: rgb(62, 43, 48);
-  margin-top: 20px;
+.footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding-top: 10px;
+    background-color: rgb(96, 142, 228);
 }
 
 /*Mobile*/
